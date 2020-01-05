@@ -1,0 +1,74 @@
+html {
+    color: honeydew;
+    font-family: 'Jura', sans-serif;
+}
+
+body {
+    background: url("http://wallpapercave.com/wp/pEeUsp1.jpg");
+    font-size: 16px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+nav {
+    font-size: 22px;
+    margin-left: -180px;
+}
+
+h1 {
+    text-shadow: 3px 3px 3px #041a63;
+    font-size: 70px;
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: red;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: yellow;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.img_bio_e_cronologia {
+    width: 300px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    border-style: inset;
+}
+
+.img_fisico {
+    width: 400px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    border-style: inset;
+}
+
+section {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+a {
+    color: goldenrod;
+    font-family: 'Jura', sans-serif;
+}
+
+.voltar {
+    margin: 350px;
+    font-size: 25px;
+    color: rgb(70, 223, 23);
+}
+
+footer {
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-bottom: 30px;
+}
